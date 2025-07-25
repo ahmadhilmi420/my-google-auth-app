@@ -38,3 +38,32 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+
+...existing code...
+
+## Project Structure
+
+```
+my-google-auth-app/
+├── pages/
+│   ├── index.tsx
+│   └── api/
+│       └── hello.ts
+├── public/
+├── styles/
+├── components/
+├── node_modules/
+├── package.json
+├── tsconfig.json
+├── next.config.js
+└── README.md
+```
+
+## Teknologi yang Digunakan
+
+- **Next.js**: Framework React untuk aplikasi web modern.
+- **React**: Library untuk membangun antarmuka pengguna.
+- **TypeScript**: Bahasa pemrograman berbasis JavaScript dengan tipe data statis.
+- **Google Auth**: Autentikasi menggunakan akun Google.
+- **Vercel**: Platform deployment untuk aplikasi Next.js.
+- **CSS/SCSS**: Untuk styling halaman dan komponen.
